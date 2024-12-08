@@ -1,2 +1,2 @@
 # ANGLE.Static
-Static library of ANGLE for Avalonia UI
+Static library of ANGLE for Avalonia UI.
